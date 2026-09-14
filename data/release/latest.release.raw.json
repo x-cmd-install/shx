@@ -66,7 +66,7 @@
   "releases_url": "https://api.github.com/repos/shelljs/shx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shelljs/shx/deployments",
   "created_at": "2016-02-14T19:53:03Z",
-  "updated_at": "2026-09-09T08:58:50Z",
+  "updated_at": "2026-09-13T14:22:14Z",
   "pushed_at": "2026-06-08T05:16:38Z",
   "git_url": "git://github.com/shelljs/shx.git",
   "ssh_url": "git@github.com:shelljs/shx.git",
@@ -74,8 +74,8 @@
   "svn_url": "https://github.com/shelljs/shx",
   "homepage": null,
   "size": 404,
-  "stargazers_count": 1872,
-  "watchers_count": 1872,
+  "stargazers_count": 1871,
+  "watchers_count": 1871,
   "language": "JavaScript",
   "has_issues": true,
   "has_projects": true,
@@ -83,11 +83,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 51,
+  "forks_count": 52,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 21,
+  "open_issues_count": 22,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,9 +106,9 @@
     "unix"
   ],
   "visibility": "public",
-  "forks": 51,
-  "open_issues": 21,
-  "watchers": 1872,
+  "forks": 52,
+  "open_issues": 22,
+  "watchers": 1871,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -142,6 +142,6 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "network_count": 51,
+  "network_count": 52,
   "subscribers_count": 18
 }
